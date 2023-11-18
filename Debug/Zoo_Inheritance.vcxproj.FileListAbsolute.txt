@@ -1,0 +1,2 @@
+D:\ProjectsC++\ACA\Zoo_Inheritance\Debug\Zoo_Inheritance.exe
+D:\ProjectsC++\ACA\Zoo_Inheritance\Debug\Zoo_Inheritance.pdb
